@@ -1,0 +1,13 @@
+D:\git\viergew\viergewConsole\viergewConsole\bin\Debug\netcoreapp3.1\viergewConsole.exe
+D:\git\viergew\viergewConsole\viergewConsole\bin\Debug\netcoreapp3.1\viergewConsole.deps.json
+D:\git\viergew\viergewConsole\viergewConsole\bin\Debug\netcoreapp3.1\viergewConsole.runtimeconfig.json
+D:\git\viergew\viergewConsole\viergewConsole\bin\Debug\netcoreapp3.1\viergewConsole.runtimeconfig.dev.json
+D:\git\viergew\viergewConsole\viergewConsole\bin\Debug\netcoreapp3.1\viergewConsole.dll
+D:\git\viergew\viergewConsole\viergewConsole\bin\Debug\netcoreapp3.1\viergewConsole.pdb
+D:\git\viergew\viergewConsole\viergewConsole\obj\Debug\netcoreapp3.1\viergewConsole.csprojAssemblyReference.cache
+D:\git\viergew\viergewConsole\viergewConsole\obj\Debug\netcoreapp3.1\viergewConsole.AssemblyInfoInputs.cache
+D:\git\viergew\viergewConsole\viergewConsole\obj\Debug\netcoreapp3.1\viergewConsole.AssemblyInfo.cs
+D:\git\viergew\viergewConsole\viergewConsole\obj\Debug\netcoreapp3.1\viergewConsole.csproj.CoreCompileInputs.cache
+D:\git\viergew\viergewConsole\viergewConsole\obj\Debug\netcoreapp3.1\viergewConsole.dll
+D:\git\viergew\viergewConsole\viergewConsole\obj\Debug\netcoreapp3.1\viergewConsole.pdb
+D:\git\viergew\viergewConsole\viergewConsole\obj\Debug\netcoreapp3.1\viergewConsole.genruntimeconfig.cache

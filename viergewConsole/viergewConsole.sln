@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viergewConsole", "viergewConsole\viergewConsole.csproj", "{72EEC355-E34F-41CE-85BF-8B70E58C684F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EEC355-E34F-41CE-85BF-8B70E58C684F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EEC355-E34F-41CE-85BF-8B70E58C684F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EEC355-E34F-41CE-85BF-8B70E58C684F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EEC355-E34F-41CE-85BF-8B70E58C684F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8A2EF76-D5B1-4EE0-9FFD-556C58037057}
+	EndGlobalSection
+EndGlobal
