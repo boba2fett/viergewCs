@@ -2,6 +2,13 @@
 
 namespace viergewConsole
 {
+    enum State : byte
+    {
+        empty=0,
+        sp1=1,
+        sp2=2
+    }
+
     class Game
     {
         private readonly VierGame vier;
